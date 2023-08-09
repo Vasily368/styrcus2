@@ -212,21 +212,21 @@ $('.reviews-slider').slick({
       breakpoint: 760,
       settings: {
         slidesToShow: 3,
-        arrows:false,
+        
       }
     },
     {
       breakpoint: 676,
       settings: {
         slidesToShow: 2,
-        arrows:false,
+        
       }
     },
      {
       breakpoint: 535,
       settings: {
         slidesToShow: 1,
-        arrows:false,
+        
       }
     },
      

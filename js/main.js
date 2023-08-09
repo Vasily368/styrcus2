@@ -192,6 +192,7 @@ $('.reviews-slider').slick({
   slidesToScroll: 1,
   autoplay: false,
   autoplaySpeed: 2000,
+arrow:true,
   prevArrow:'<button type="button" class="slick-prev"><img src="images/arrow-left.png"></button>',
   nextArrow:'<button type="button" class="slick-next"><img src="images/arrow-right.png"></button>',
   responsive:[
